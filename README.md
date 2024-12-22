@@ -1,4 +1,5 @@
 Transcoder App
+
 Welcome to my Transcoder App repository! This is my very first project on adroid app development. This project is designed to provide a powerful and efficient solution for transcoding media files. Built with Java on Android Studio, the Transcoder App ensures high performance and reliability.
 
 Features:
