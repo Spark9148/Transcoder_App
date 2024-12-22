@@ -26,5 +26,5 @@ Clone the repository:
 
 Libraries Used:
 
-This project uses the deepmedia/Transcoder library for hardware-accelerated video transcoding. This library supports various features such as cropping, concatenation, clipping, audio processing, and more.
+This project is made possible using the "https://github.com/deepmedia/Transcoder" library for hardware-accelerated video transcoding. This library supports various features such as cropping, concatenation, clipping, audio processing, and more.
  
