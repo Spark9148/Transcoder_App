@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="Output_Thumbnails"
+        path="Android/data/com.spark.example/files/Output_Thumbnails" />
+    <external-path
+        name="Output_Videos"
+        path="Android/data/com.spark.example/files/Output_Videos"/>
+</paths>
