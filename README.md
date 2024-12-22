@@ -16,13 +16,9 @@ Welcome to my Transcoder App repository! This is my very first project on adroid
 
 To get started with the Transcoder App:
 
-you can either
-
 ### Clone the repository:
 
-"git clone https://github.com/Spark9148/Transcoder_App.git"
- or
- download the zip file and load it into Android Studio
+"git clone https://github.com/Spark9148/Transcoder_App.git" (or) download the zip file and load it into Android Studio
 
 Libraries Used:
 
