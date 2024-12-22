@@ -5,6 +5,9 @@ Welcome to my Transcoder App repository! This is my very first project on adroid
 Features:
 
 *High-Quality Transcoding: Convert media files between various formats with ease.
+
 *User-Friendly Interface: Simple and intuitive UI for seamless user experience.
+
 *Batch Processing: Transcode multiple files simultaneously to save time.
+
 *Customizable Settings: Adjust transcoding parameters to meet your specific needs.
