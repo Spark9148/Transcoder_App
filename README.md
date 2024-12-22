@@ -22,7 +22,7 @@ Clone the repository:
 
 "git clone https://github.com/Spark9148/Transcoder_App.git"
  or
- download the zip file
+ download the zip file and load it into Android Studio
 
 Libraries Used:
 
