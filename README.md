@@ -11,3 +11,16 @@ Features:
 *Batch Processing: Transcode multiple files simultaneously to save time.
 
 *Customizable Settings: Adjust transcoding parameters to meet your specific needs.
+
+Getting Started:
+
+To get started with the Transcoder App:
+
+you can either
+
+Clone the repository:
+
+"git clone https://github.com/Spark9148/Transcoder_App.git"
+ or
+ download the zip file
+ 
